@@ -469,7 +469,7 @@
 
 							switch (this.type) {
 
-								case 'submit':
+								case 'submit': console.log("pressed");
 								case 'reset':
 									break;
 
